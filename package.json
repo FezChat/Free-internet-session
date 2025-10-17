@@ -14,7 +14,8 @@
   "license": "GPL-3.0 license",
   "dependencies": {
     "gifted-baileys": "github:mr-X-force/Baileys",
-    "@fredi/baileys": "npm:baileys@6.7.20",
+    "@frediezra/baileys": "npm:baileys@6.7.20",
+    "@fredi/baileys": "github:Obedweb3/ObedTech-Baileys",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "megajs": "^1.1.0",
