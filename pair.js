@@ -12,7 +12,7 @@ const {
     delay,
     makeCacheableSignalKeyStore,
     Browsers
-} = require("fredi/baileys");
+} = require("@fredi/baileys");
 
 function randomMegaId(length = 6, numberLength = 4) {
                       const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
